@@ -56,4 +56,4 @@ The project covers a full analytics workflow — from data exploration and visua
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/GeorgiaMath/ecommerce-sales-analysis/LICENSE).
+This project is licensed under the [MIT License](https://github.com/GeorgiaMath/ecommerce-sales-analysis/blob/main/LICENSE).
