@@ -6,7 +6,7 @@ The goal was to simulate the role of a data analytics manager in an e-commerce c
 All analysis, visualizations, and modeling were implemented using Python from scratch without automated tools.
 
 ## Dataset
-The dataset (`data_sample.csv`) includes customer transactions, product categories, unit prices, revenues, marketing campaigns, sales platform, customer region, age group, and gender. 
+The dataset includes customer transactions, product categories, unit prices, revenues, marketing campaigns, sales platform, customer region, age group, and gender. 
 
 These data are entirely anonymized and do not contain any personally identifiable information such as names, emails, or contact details. 
 They are used solely for educational and analytical purposes within the context of this academic project.
