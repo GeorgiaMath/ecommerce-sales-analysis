@@ -5,10 +5,6 @@ The goal was to simulate the role of a data analytics manager in an e-commerce c
 
 All analysis, visualizations, and modeling were implemented using Python from scratch without automated tools.
 
-<p align="center">
- <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="50%" height="50%"/>
-</p>
-
 ## Dataset
 The dataset includes customer transactions, product categories, unit prices, revenues, marketing campaigns, sales platform, customer region, age group, and gender. 
 
