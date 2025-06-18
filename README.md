@@ -1,6 +1,6 @@
 # E-commerce Sales Analysis
 
-This project was developed as part of my MSc in Market and Production Mathematics at the Athens University of Economics and Business. 
+This project was developed as part of my [MSc in Business Mathematics](https://map.aueb.gr/) at the Athens University of Economics and Business. 
 The goal was to simulate the role of a data analytics manager in an e-commerce company and extract insights that can support strategic business decisions.
 
 All analysis, visualizations, and modeling were implemented using Python from scratch without automated tools.
@@ -53,3 +53,7 @@ They are used solely for educational and analytical purposes within the context 
 - Actionable customer segmentation for targeted strategy
 
 The project covers a full analytics workflow — from data exploration and visualization to clustering, forecasting, and decision-making support.
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/GeorgiaMath/ecommerce-sales-analysis/LICENSE).
